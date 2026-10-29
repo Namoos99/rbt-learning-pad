@@ -2,7 +2,7 @@
 
 An interactive study companion for Registered Behavior Technician (RBT) trainees. It helps new RBTs learn the 2026 exam content efficiently, think through ethics before it matters, and keep a private reflection journal, so more time goes to direct client work.
 
-Built by Namoos Haider, a former senior RBT and founding RBT at a severe-behavior ABA clinic, now a recent MS gradute in Applied Data Science & AI from the University of Denver.
+Built by Namoos Haider, a former senior RBT and founding RBT at a severe-behavior ABA clinic, a recent MS gradute in Applied Data Science & AI from the University of Denver.And now an AI engineer!
 
 **[Open the live app →](https://namoos99.github.io/rbt-learning-pad/)**
 
