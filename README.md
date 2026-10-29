@@ -4,6 +4,8 @@ An interactive study companion for Registered Behavior Technician (RBT) trainees
 
 Built by Namoos Haider, a former senior RBT and founding RBT at a severe-behavior ABA clinic, now an MS student in Applied Data Science & AI at the University of Denver.
 
+**[Open the live app →](https://namoos99.github.io/rbt-learning-pad/)**
+
 ## What's inside
 
 - **Dashboard:** exam blueprint, progress by domain, a "next step" suggestion, and the certification roadmap
